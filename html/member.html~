@@ -5,13 +5,13 @@
     <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="/javascript/header_script.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/include.css">
-    <link rel="stylesheet" type="text/css" href="/css/original/game/game.css">
+    <link rel="stylesheet" type="text/css" href="/css/original/member/member.css">
   </head>
   <body>
     <div id="header"></div>
     <div class="picture">
       <p id="top">捨て駒s<br>~NA-TM~</p>
-      <p id="top_en">The main GAME</p>
+      <p id="top_en">Members</p>
     </div>
     <div class="main-zone">
       <div class="intro">

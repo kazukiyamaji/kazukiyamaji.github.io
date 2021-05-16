@@ -1,5 +1,5 @@
 .picture{
-    background-image:url("/css/original/game/DBD.jpg");
+    background-image:url("/css/original/member/dark.jpg");
     background-repeat:no-repeat;
     background-size:100%;
     max-width:100%;
