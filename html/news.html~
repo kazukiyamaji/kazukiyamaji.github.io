@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="/javascript/header_script.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/include.css">
+    <link rel="stylesheet" type="text/css" href="/css/original/game/game.css">
+  </head>
+  <body>
+    <div id="header"></div>
+    <div class="picture">
+      <p id="top">主にプレイしている<br>ゲーム</p>
+      <p id="top_en">The main GAME</p>
+    </div>
+    <div class="main-zone">
+      <div class="intro">
+	<h1 id="syumi">意図的なkillをモットーに</h1>
+	<p id="explain">クラン名：NA-TMは主に高校・中学時代の友人間で作られたクランです。おもにレインボーシックスシージやDead By Daylightをプレイしています。このホームページは彼らの記録をつけるために作成しました。大会とかには出ませんがもし出るようなことがあればここに書いていきたいと思います。<br>*意図的なキルをモットーにと書いてありますがこれはあくまでクラン長が決めているだけですので誤解しないようお願いします。<br><br>クラン長:NA-TM<br>クラン長補佐:yukibig<br>AIM＆小技担当:najoil<br>割り職＆雑用係:riberu<br>ページ作成:mineral-wallet</p>
+      </div>
+    </div>
+    <div id="footer"></div>
+  </body>
+</html>
+

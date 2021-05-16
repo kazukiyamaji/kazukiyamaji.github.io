@@ -1,0 +1,46 @@
+
+* {
+   box-sizing: border-box;
+}
+body {
+    padding-top: 100px; /* ヘッダーの後ろに要素が隠れないようにするため */
+}
+
+header{
+    height:100px;
+    width:100%;
+    padding:30px 4% 10px;
+    background-color:#ccc;
+    position:fixed;
+    top:0;
+    display: flex;
+    align-items: center;
+    left:0;
+}
+
+
+header p{
+    width:300px;
+    margin:0;
+    padding:0;
+    font-size:30px;
+}
+header ul{
+    list-style:none;
+    margin: 0;
+    display:flex;   
+}
+header li{
+    width:50px;
+    margin: 0 0 0 70px;
+    font-size:14px;
+}
+
+header .pc-nav a{
+    text-decoration: none;
+    color:#4b4b4b;
+}
+	     
+header .pc-nav{
+    margin:0 0 0 auto;
+}

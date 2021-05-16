@@ -1,0 +1,73 @@
+.picture{
+    background-image:url("/css/original/game/DBD.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    max-width:100%;
+    min-width:1000px;
+    min-height:450px;
+    max-height:750px;
+    padding: 0;
+    margin :0;
+
+
+}
+
+#top{
+    font-size :100px;
+    align-text: center;
+    width : 73%;
+    height: auto;
+    color:white;
+    margin: 0px auto auto 0;
+}
+#top_en{
+    font-size:40px;
+    height:auto;
+    color:white;
+    margin-left:20px;
+    margin-bottom:0;
+}
+    
+
+
+body{
+    padding-bottom:0;
+    padding-right:0;
+    padding-left:0;
+    margin: 0 0 0 0;
+}
+.main-zone{
+    width:100%;
+    min-width: 1000px;
+    padding:30px 0 150px;
+    background-color:#e0e0e1;
+    left:0;
+    
+}
+		      
+.intro{
+    text-align:center;
+    background-image:url("/css/original/top/avenger.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    border-radius:7px;
+    padding:15px;
+    width: 500px;
+    height:500px;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom:0px;
+}
+.intro #syumi{
+    color:white;
+    font-size:40px;
+    text-align:center;
+    width:100%;
+}
+.intro #explain{
+    color:white;
+    text-align:center;
+    width:100%;
+}
+
