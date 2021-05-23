@@ -16,15 +16,16 @@ header{
     display: flex;
     align-items: center;
     left:0;
+    
 }
 
 
 header p{
     width:300px;
-    margin:0;
+    margin:0 0 15px 0 ;
     padding:0;
     font-size:30px;
-    font-family: 'Reggae One', cursive;
+    font-family: 'DotGothic16', sans-serif;
 }
 header ul{
     list-style:none;
@@ -32,14 +33,16 @@ header ul{
     display:flex;   
 }
 header li{
-    width:50px;
-    margin: 0 0 0 70px;
+    width:100px;
+    margin: 0 0 10px 40px;
     font-size:14px;
 }
 
 header .pc-nav a{
     text-decoration: none;
     color:#4b4b4b;
+    font-family: 'DotGothic16', sans-serif;
+    font-size:20px;
 }
 	     
 header .pc-nav{

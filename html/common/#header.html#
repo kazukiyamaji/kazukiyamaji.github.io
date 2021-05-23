@@ -1,8 +1,8 @@
 
 <header>
   <style>
-@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
-</style>
+    @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+  </style>
   <p><nobr>クラン名:NA-TM</nobr></p>
   <nav class="pc-nav">
     <ul>

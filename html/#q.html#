@@ -5,20 +5,17 @@
     <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
     <script src="/javascript/header_script.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/include.css">
-    <link rel="stylesheet" type="text/css" href="/css/original/news/news.css">
+    <link rel="stylesheet" type="text/css" href="/css/original/game/game.css">
   </head>
   <body>
     <div id="header"></div>
     <div class="picture">
-      <p id="top">~お知らせ~<br>大会情報</p>
-      <p id="top_en">NEWS!</p>
+      <p id="top">問い合わせ先<br>+作成者</p>
+      <p id="top_en">Adress</p>
     </div>
     <div class="main-zone">
-      <div class="info">
-
-      </div>
+      
     </div>
     <div id="footer"></div>
   </body>
 </html>
-
